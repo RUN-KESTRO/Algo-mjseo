@@ -1,4 +1,3 @@
-package onlineJudge.backjun;
 
 import java.io.*;
 import java.util.StringTokenizer;
